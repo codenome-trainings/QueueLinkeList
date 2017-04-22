@@ -1,0 +1,3 @@
+/home/thiago/ClionProjects/p2-02-queueLinkedList/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/home/thiago/ClionProjects/p2-02-queueLinkedList/cmake-build-debug/CMakeFiles/edit_cache.dir
+/home/thiago/ClionProjects/p2-02-queueLinkedList/cmake-build-debug/CMakeFiles/p2_02_queueLinkedList.dir

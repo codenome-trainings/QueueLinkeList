@@ -1,0 +1,20 @@
+#IncludeRegexLine: ^[ 	]*#[ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/thiago/ClionProjects/p2-02-queueLinkedList/Queue.cpp
+Queue.h
+/home/thiago/ClionProjects/p2-02-queueLinkedList/Queue.h
+
+/home/thiago/ClionProjects/p2-02-queueLinkedList/Queue.h
+iostream
+-
+
+/home/thiago/ClionProjects/p2-02-queueLinkedList/main.cpp
+Queue.h
+/home/thiago/ClionProjects/p2-02-queueLinkedList/Queue.h
+
