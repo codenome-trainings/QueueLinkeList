@@ -37,6 +37,8 @@ int main() {
     display(q);
     cout << "Deleted Number: " << dequeue(q) << endl;
     display(q);
+    
+    free(q);
 
 
     return 0;
